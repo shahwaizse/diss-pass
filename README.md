@@ -3,9 +3,9 @@ the base layer will be Manjaro because it's based on Arch and all Arch packages 
 the Windows layer will be a Windows 10 Pro VM with GPU Passthrough so I can play all my games without worrying about compatibility. 
 and an extra MacOS High Sierra layer just for the memes 
  
-#UPDATE 
+UPDATE 
  
-![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/c3c1383a-dcb4-410a-a285-a019a89845ee) 
+![image](sadness.jpg)
  
 After much research this just isn't viable until I have atleast a 1tb nvme ssd and a really REALLY fast cpu with atleast 16 threads. 
 so this project is on hold until I get a super cool rig with high end components. 
