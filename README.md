@@ -10,3 +10,5 @@ UPDATE
 After much research this just isn't viable until I have atleast a 1tb nvme ssd and a really REALLY fast cpu with atleast 16 threads. 
 so this project is on hold until I get a super cool rig with high end components. 
 motivation to put in effort so that I can achieve my dreams++
+
+Update 2: you also need an additional monitor because the passthrough vm doesnt show on the primary monitor unless you're using a spice server which has a large performance overhead so why even bother becuase the entire point of this system is supposed to be close-to-native performance on virtual hardware. sighhhhhh 
