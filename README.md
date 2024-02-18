@@ -30,5 +30,5 @@ UPDATE 4: GREAT SUCCESS!!!!!
   
 ![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/330e7585-30c8-4b40-8c29-357e290eeeb3)  
   
-this is a VIRTUAL MACHINE having FULL NATIVE ACCESS to my gpu. 
+this is a VIRTUAL MACHINE having FULL NATIVE ACCESS to my gpu. I fucking love Linux.
 
