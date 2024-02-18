@@ -44,6 +44,8 @@ UPDATE 7: code 43 mere hatho mare ga, it's back and looking glass is not working
   
 ![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/7dacf06f-50a6-4784-b573-4efe9abdedb7)  
 
-we're in the gravy now
+we're in the gravy now, but im NOT willing to brick my gpu following my neckbeard fantasies. I'll try to find a way to make this work without flashing a different vbios, especially because theres no official one available for my specific version of the 1050. 
+
+UPDATE 8: mission failed, that's all the time I had this weekend, maybe I'll have another crack at this when I've recovered from reading Arch manpages for 24 hours straight. 
 
 
