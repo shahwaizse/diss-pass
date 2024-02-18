@@ -41,3 +41,5 @@ https://www.reddit.com/r/VFIO/comments/pqk9td/comment/hddgpup/?utm_source=share&
   ![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/e19958d7-1719-42be-aeac-79215276a761)
 
 
+time to get Looking Glass set up 
+
