@@ -1,3 +1,5 @@
+To make a standard win10 vm using KVM but without gpu passthrough, follow this: https://www.makeuseof.com/create-windows-virtual-machine-in-linux-with-kvm/
+  
 https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#Prerequisites
   
 kvm is amazing and using it I plan on making an ultimate 3-in-1 operating system in which I can develop programs, play games at near-native performance, and do all other computer stuff. 
