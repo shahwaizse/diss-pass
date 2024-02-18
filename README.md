@@ -31,4 +31,4 @@ UPDATE 4: Code 43 error, apparently updating to the latest drivers should fix it
   
 ![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/330e7585-30c8-4b40-8c29-357e290eeeb3)  
   
-Update 5: I keep getting the accursed Code 43 error which could mean a million different things and honestly I know what I must do but I don't know if I have the strength to do it.
+Update 5: I keep getting the accursed Code 43 error even after updating my drivers which could mean a million different things and honestly I know what I must do (trying the hundreds of fixes posted online individually in the hope that one of them works) but I don't know if I have the strength to do it.
