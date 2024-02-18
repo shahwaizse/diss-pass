@@ -20,7 +20,8 @@ https://github.com/mysteryx93/GPU-Passthrough-with-Optimus-Manager-Guide
   
 Update 3: WE"RE COOKING 
   
-![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/13e109e9-2278-4e81-a386-84c480f3c731)  
+![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/50b8d0dc-9260-4de3-baf1-a9fc63841ca8) 
+ 
   
 https://gist.github.com/firelightning13/e530aec3e3a4e15885a10f6c4b7ae021?permalink_comment_id=4736891#setting-up-windows-1011-vm  
   
