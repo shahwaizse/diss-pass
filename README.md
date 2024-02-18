@@ -26,7 +26,8 @@ https://gist.github.com/firelightning13/e530aec3e3a4e15885a10f6c4b7ae021?permali
   
 Looking Glass is a nice tool which on the surface seems to solve my single-monitor woes. have to dig more though  
   
-UPDATE 4: GPU has been passed through but drivers won't install without breaking
+UPDATE 4: GPU has been passed through less goooo
   
 ![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/330e7585-30c8-4b40-8c29-357e290eeeb3)  
-
+  
+Update 5: I keep getting the accursed Code 43 error which could mean a million different things and honestly I know what I must do but I don't know if I have the strength to do it.
