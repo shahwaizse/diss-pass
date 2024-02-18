@@ -40,6 +40,10 @@ https://www.reddit.com/r/VFIO/comments/pqk9td/comment/hddgpup/?utm_source=share&
 
   ![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/e19958d7-1719-42be-aeac-79215276a761)
 
+UPDATE 7: code 43 mere hatho mare ga, it's back and looking glass is not working becuase the gpu is not working and I am THIS close to uninstalling everything and going to back to my nice WORKING dual boot setup.
+  
+![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/7dacf06f-50a6-4784-b573-4efe9abdedb7)  
 
-time to get Looking Glass set up 
+we're in the gravy now
+
 
