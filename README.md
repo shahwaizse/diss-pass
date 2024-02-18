@@ -18,7 +18,7 @@ Update 2: you also need an additional monitor because the passthrough vm doesnt 
 (just in case)
 https://github.com/mysteryx93/GPU-Passthrough-with-Optimus-Manager-Guide
   
-Update 3: WE"RE COOKING 
+Update 3: WE'RE COOKING 
   
 ![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/50b8d0dc-9260-4de3-baf1-a9fc63841ca8) 
  
