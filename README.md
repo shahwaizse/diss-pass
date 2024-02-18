@@ -18,6 +18,7 @@ Update 2: you also need an additional monitor because the passthrough vm doesnt 
 (just in case)
 https://github.com/mysteryx93/GPU-Passthrough-with-Optimus-Manager-Guide
 
-Update 3: WE"RE COOKING
-![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/13e109e9-2278-4e81-a386-84c480f3c731)
-https://gist.github.com/firelightning13/e530aec3e3a4e15885a10f6c4b7ae021?permalink_comment_id=4736891#setting-up-windows-1011-vm
+Update 3: WE"RE COOKING 
+![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/13e109e9-2278-4e81-a386-84c480f3c731) 
+https://gist.github.com/firelightning13/e530aec3e3a4e15885a10f6c4b7ae021?permalink_comment_id=4736891#setting-up-windows-1011-vm 
+Looking Glass is a nice tool which on the surface seems to solve my single-monitor woes. have to dig more though
