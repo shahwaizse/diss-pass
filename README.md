@@ -36,3 +36,8 @@ Update 5: I keep getting the accursed Code 43 error even after updating my drive
  
 https://www.reddit.com/r/VFIO/comments/pqk9td/comment/hddgpup/?utm_source=share&utm_medium=web2x&context=3 
 
+ UPDATE 6: WE'RE SO FUCKING BACK 
+
+  ![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/e19958d7-1719-42be-aeac-79215276a761)
+
+
