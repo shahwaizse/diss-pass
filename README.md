@@ -50,4 +50,6 @@ we're in the gravy now, but im NOT willing to brick my gpu following my neckbear
 
 UPDATE 8: mission failed, that's all the time I had this weekend, maybe I'll have another crack at this when I've recovered from reading Arch manpages for 24 hours straight. 
 
+Update 9: I was doing a bit of reading and the code 43 error might have been caused by something related to by gpu (probably) being MUXED Optimus. On MUXless Optimus setups the dgpu is connected to the igpu which is then fed to the laptop monitor and display port. MUXED Optimus configurations have the dgpu and igpu connected to a multiplexer, which is connected to the panel and display out. apparently theres different types of guides for MUXLESS and MUXED, so maybe I followed the wrong type of guide and there's hope after all. 
+
 
