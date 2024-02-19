@@ -1,4 +1,8 @@
-To make a standard win10 vm using KVM but without gpu passthrough, follow this: https://www.makeuseof.com/create-windows-virtual-machine-in-linux-with-kvm/
+To make a standard win10 vm using KVM but without gpu passthrough, follow this: https://www.makeuseof.com/create-windows-virtual-machine-in-linux-with-kvm/ 
+
+https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.4/html/virtual_machine_management_guide/installing_guest_agents_and_drivers_windows 
+
+https://aur.archlinux.org/packages/virtio-win 
   
 this is where the fun begins: https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#Prerequisites
   
