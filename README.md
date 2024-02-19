@@ -1,11 +1,15 @@
-To make a standard win10 vm using KVM but without gpu passthrough, follow this: https://www.makeuseof.com/create-windows-virtual-machine-in-linux-with-kvm/ 
-
+To make a standard win10 vm using KVM but without gpu passthrough, follow this: 
+ 
+https://www.makeuseof.com/create-windows-virtual-machine-in-linux-with-kvm/ 
+ 
 https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.4/html/virtual_machine_management_guide/installing_guest_agents_and_drivers_windows 
 
 https://aur.archlinux.org/packages/virtio-win 
   
-this is where the fun begins: https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#Prerequisites
-  
+this is where the fun begins: 
+ 
+https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#Prerequisites
+   
 kvm is amazing and using it I plan on making an ultimate 3-in-1 operating system in which I can develop programs, play games at near-native performance, and do all other computer stuff. 
 the base layer will be Manjaro because it's based on Arch and all Arch packages work on it and the AUR is awesome. 
 the Windows layer will be a Windows 10 Pro VM with GPU Passthrough so I can play all my games without worrying about compatibility. 
