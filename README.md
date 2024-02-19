@@ -60,6 +60,7 @@ Update 9: I was doing a bit of reading and the code 43 error might have been cau
   
 ![image](https://github.com/shahwaizse/lwm-triforce/assets/64956185/5c2070dc-5d4e-4f84-9ed5-8e4330ab2ed2)
 
+Update 10: This is just copium at this point, but for now I'm going to pass through my igpu to the vm so I can play valorant (at a cinematic 30fps, oh joy)
 
 
 
