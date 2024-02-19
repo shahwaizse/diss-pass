@@ -1,3 +1,7 @@
+obligatory neofetch: 
+ 
+![image](https://github.com/shahwaizse/dissonance-passthrough/assets/64956185/4fa69d14-7afb-400c-8cc2-5a5d48a24575)
+ 
 To make a standard win10 vm using KVM but without gpu passthrough, follow this: 
  
 https://www.makeuseof.com/create-windows-virtual-machine-in-linux-with-kvm/ 
