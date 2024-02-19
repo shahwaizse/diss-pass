@@ -10,7 +10,7 @@ https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.4/html/vi
 
 https://aur.archlinux.org/packages/virtio-win 
   
-this is where the fun begins: 
+now that we have a vm for work, this is where the fun begins: 
  
 https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF#Prerequisites
    
